@@ -1,5 +1,3 @@
--First Step to Automation Testing
-
 # Automation Exercise Testing Project
 
 This project is an automated testing framework for the Automation Exercise website using Selenium WebDriver, Java, and TestNG.
